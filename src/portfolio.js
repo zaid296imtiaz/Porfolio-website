@@ -26,7 +26,7 @@ const greeting = {
     "As a seasoned software engineer with a Master's in Applied Computing, I specialize in JavaScript, React.JS, and React Native. My expertise lies in optimizing software, and enhancing user experiences, all while accelerating the software development lifecycle"
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1OddE2OgdNcwIWiLFsjde1pHNN1_YyqOp/view?usp=sharing", // Set to empty to hide the button
+    "", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 

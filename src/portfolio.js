@@ -192,9 +192,9 @@ const workExperiences = {
       date: "Sep 2022 – Apr 2023",
       // desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
       descBullets: [
-        "Debugged, optimized, and implemented an access control module in a Vue.JS website",
+        "Debugged and optimized existing code while implementing an access control module in a Vue.JS website",
         "Communicated effectively with technical and non-technical stakeholders, resulting in 10% improved project coordination and delivery",
-        "Developed an agent management system in a Next.JS based web application",
+        "Adapted quickly to the code base and implemented required functionality reducing onboarding time by 25%",
         "Facilitated knowledge transfer sessions to cross-functional teams, resulting in a 15% reduction in onboarding time"
       ]
     },
@@ -206,10 +206,9 @@ const workExperiences = {
       // desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
       descBullets: [
         "Spearheaded the development of high-performance applications using React and React Native, resulting in a 15% improvement in user experience and engagement",
-        "Championed the use of Agile methodologies, accelerating the software development lifecycle and increasing team productivity by 20%",
-        "Ensured AODA/WCAG 2.1 compliance enhancing website accessibility and user experience",
-        "Leveraged Docker/Kubernetes for containerization, improving application scalability and reducing deployment time by 10%",
-        "Integrated GraphQL for efficient data fetching, reducing server load and improving response times"
+        "Leveraged Docker for containerization, improving application scalability and reducing deployment time by 10%",
+        "Championed the use of Agile methodologies, accelerating the software development and increasing team productivity by 20%",
+        "Ensured WCAG 2.1 compliance enhancing accessibility and user experience"
       ]
     },
     {
@@ -219,9 +218,9 @@ const workExperiences = {
       date: "Aug 2020 – July 2021",
       // desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
       descBullets: [
-        "Led and mentored a team of 3 junior developers to successfully deliver a pedometer module in a React Native application, resulting in a 20% increase in user engagement",
-        "Improved the efficiency of a React.JS dashboard by streamlining the data processing pipeline, resulting in a 40% decrease in loading time and an increase in customer retention by 18%",
-        "Worked with technology partners to ensure the configuration and custom components meet application requirements and performance goals"
+        "Led a team of 3 junior developers to successfully deliver 2 interactive modules in a React Native application, resulting in a 20% increase in user engagement",
+        "Conducted meetings with clients to collect feedback and implemented changes in a timely manner",
+        "Improved the efficiency of a React.JS dashboard by streamlining the data processing pipeline, resulting in a 40% decrease in loading time and an increase in customer retention by 18%"
       ]
     },
     // {

@@ -199,7 +199,7 @@ const workExperiences = {
       ]
     },
     {
-      role: "Contract Senior Software Engineer",
+      role: "Contract Software Engineer",
       company: "Hegemonic Softwares",
       companylogo: require("./assets/images/Hegemonic_logo.jpeg"),
       date: "Aug 2021 – Aug 2022",

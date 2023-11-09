@@ -186,7 +186,7 @@ const workExperiences = {
   display: true, //Set it to true to show workExperiences Section
   experience: [
     {
-      role: "Unified Communication Systems Co-op",
+      role: "Front-End Developer Co-op",
       company: "BlackBerry",
       companylogo: require("./assets/images/bb_logo.jpeg"),
       date: "Sep 2022 – Apr 2023",
